@@ -1,4 +1,4 @@
 # BU PROJE BAŞLIĞI
 
 
-[Google](www.google.com)
+[Google](https://www.google.com)
